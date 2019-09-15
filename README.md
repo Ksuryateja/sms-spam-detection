@@ -1,2 +1,4 @@
 # sms-spam-detection
-SMS spam detection using Naive Baye's Classifier
+<br>
+data is available at https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+<br>
